@@ -38,7 +38,7 @@ npm run deploy
   * [x] Criação, modificação e remoção de fotos que devem aparecer no site
   * [x] Criação, modificação e remoção de videos que devem aparecer no site
 * [x] Filtro de fotos por subcategorias
-* [] Galeria simples de imagens
+* [ ] Galeria simples de imagens
   * [x] Zoom e navegação
   * [x] Keybindings para fechas (esc) e movimentar (setas)
-  * [] Inserir transições/animações com VueJS
+  * [ ] Inserir transições/animações com VueJS
