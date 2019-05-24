@@ -4,11 +4,14 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "deploy": "chmod +x deploy.sh;./deploy.sh"
   },
   "dependencies": {
+    "buefy": "^0.7.5",
     "core-js": "^2.6.5",
     "vue": "^2.6.10",
+    "vue-resource": "^1.5.1",
     "vue-router": "^3.0.3"
   },
   "devDependencies": {
