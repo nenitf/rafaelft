@@ -1,6 +1,6 @@
 <template>
 
-  <div class="notification is-white">
+  <div class="notification is-white container-gallery">
 
     <!-- Mostra página depois da promisse pegar as fotos -->
     <div v-if="!isLoading">
@@ -230,7 +230,6 @@ export default {
 </script>
 
 <style media="screen">
-
 .fade-enter-active, .fade-leave-active {
   transition: opacity .5s;
 }
@@ -238,4 +237,8 @@ export default {
   opacity: 0;
 }
 
+.container-gallery{
+  text-align: center !important;
+  padding: 1.25rem 1.5rem !important;
+}
 </style>

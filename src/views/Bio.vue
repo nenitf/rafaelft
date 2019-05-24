@@ -16,9 +16,12 @@
         </div>
       </div>
 
-      <p>Meu nome é Rafael Moreira sou fotografo, penso que cada momento é único e com a fotografia temos esse privilégio de registrar e compartilhar esses momentos mais importantes da nossa vida.
+      <p>
+        Meu nome é Rafael Moreira sou fotógrafo, penso que cada momento é único e com a fotografia temos esse privilégio de registrar e compartilhar esses momentos mais importantes da nossa vida.
       </p>
-      <p>Faço fotografia por paixão, cada detalhe é único, acho sensacional a questão de trabalhar com manipulação de imagem (luz, sombra e cores). Tento proporcionar aos meus clientes a melhores experiencia profissional em fotografia, com fotos de qualidade e um valor acessível, e sempre pensando no resultado que o cliente deseja.</p>
+      <p>
+        Faço fotografia por paixão, cada detalhe é único, acho sensacional a questão de trabalhar com manipulação de imagem (luz, sombra e cores). Tento proporcionar aos meus clientes a melhores experiencia profissional em fotografia, com fotos de qualidade e um valor acessível, e sempre pensando no resultado que o cliente deseja.
+      </p>
     </div>
   </div>
 

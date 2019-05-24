@@ -1,8 +1,8 @@
 <template>
   <div class="container">
-    <div class="notification is-white">
+    <div class="notification is-white container-gallery">
 
-      <div class="columns">
+      <div class="columns is-centered is-multiline is-mobile">
         <div class="column" v-for="(urlVideo, index) in videos" :key="index">
           <iframe :src="urlVideo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
@@ -47,3 +47,13 @@ export default {
   }
 }
 </script>
+<style media="screen">
+.column iframe{
+  max-width: initial;
+}
+
+.container-gallery{
+  text-align: center !important;
+  padding: 1.25rem 1.5rem !important;
+}
+</style>
